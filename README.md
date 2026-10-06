@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Sukwon(Seon) Oh 👋
 
-<!--
-**sukwonOh/sukwonOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently completing a Master's degree in Artificial Intelligence
+at Macquarie University in Sydney, Australia.
 
-Here are some ideas to get you started:
+I'm interested in building practical AI systems, particularly in
+Machine Learning, Natural Language Processing, Large Language Models,
+and Computer Vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+
+- Python
+- PyTorch
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+
+## 🚀 Currently Working On
+
+I'm currently building practical AI projects to strengthen my experience
+in developing end-to-end AI applications.
+
+## 🎯 Career Goal
+
+I'm seeking AI/ML internship and graduate opportunities in Australia,
+with a particular interest in Applied AI, NLP, LLMs, and Machine Learning.
+
+## 🔗 Connect
+
+- LinkedIn: [Sukwon Oh](YOUR-LINKEDIN-URL)
