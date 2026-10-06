@@ -28,4 +28,4 @@ with a particular interest in Applied AI, NLP, LLMs, and Machine Learning.
 
 ## 🔗 Connect
 
-- LinkedIn: [Sukwon Oh](YOUR-LINKEDIN-URL)
+- LinkedIn: https://www.linkedin.com/in/sukwon-oh-79744b42b/?isSelfProfile=true
